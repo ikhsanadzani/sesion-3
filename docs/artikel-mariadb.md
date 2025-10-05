@@ -1,4 +1,4 @@
-# Pemanfaatan AI untuk Normalisasi Database Perpustakaan (MariaDB 1NF → 2NF → 3NF)
+# Pemanfaatan AI untuk Normalisasi Database (MariaDB 1NF → 2NF → 3NF)
 
 ## Ringkasan
 - **Tujuan:** Menyusun database perpustakaan supaya bebas duplikasi & anomaly.  
@@ -171,3 +171,4 @@ Dengan bantuan AI, proses normalisasi database perpustakaan jadi lebih cepat, ka
 - Query validasi.  
 
 Hasilnya, database lebih rapi, efisien, dan mudah dikembangkan (misalnya menambah modul denda, laporan bulanan, dsb).  
+
